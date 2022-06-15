@@ -75,6 +75,7 @@ dt.predict([[5,6]])
 
 ## Output:
 ![output](https://github.com/Hemapriya-2004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/0aac8d8d2194d79213ed990c2ddabc5a03e26c94/6a.png)
+![output](https://github.com/Hemapriya-2004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/e8305207c1f6216cbc890c7268d4fc388472b103/6b.png)
 ![output]()
 
 ## Result:
